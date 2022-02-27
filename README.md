@@ -7,7 +7,7 @@
 
 微信用：[仅供技术交流使用-wx版](https://shumil573.github.io/bupt-bluffing#/weixin)
 
-手账生产力小工具发布页（基于中台的效率及记账型网页应用）：[现版本开发完毕，测试稳定就发布。但还想要好看的UI](https://shumil573.github.io/arrangement.github.io/)
+手账生产力小工具发布页（基于中台的效率及记账型网页应用）：[现版本开发完毕，进度条晃动解决不了了](https://shumil573.github.io/arrangement.github.io/)
 
 
 
@@ -17,7 +17,7 @@
 
 添加基于子弹笔记、进度条的todo工具的介绍及链接
 
-手账生产力小工具发布页：[现版本开发完毕，测试稳定就发布。但还想要好看的UI](https://shumil573.github.io/arrangement.github.io/)
+手账生产力小工具发布页：[现版本开发完毕，进度条晃动解决不了了](https://shumil573.github.io/arrangement.github.io/)
 
 使用说明：
 
@@ -25,7 +25,15 @@
 
 -基于本地缓存存储，不用担心你的小秘密被我知道（妈嘞我是真的不会用服务器（学习列表太长了
 
--第1个页面“时间”基于奇奇怪怪的需求，可能除了我，大家都用不上。而且网页难以发送通知。
+```
+![image](https://github.com/shumil573/for-pri/blob/main/arrangement-image/time1.jpg)
+```
+
+-第1个页面“时间”，基于奇奇怪怪的需求，可能除了我，大家都用不上。而且网页难以发送通知。
+
+```
+![image](https://github.com/shumil573/for-pri/blob/main/arrangement-image/store1.jpg)
+```
 
 -第2个页面“库存”，用进度条显示一件事情的进展和数量（可以记吃吃喝喝，也可以记一本书的阅读进展，还可以记录量化的学习目标）。
 
@@ -33,15 +41,19 @@
 
 --------Pin住一个物品后，该物品进入“库存”状态，可以在不新建项的前提下，增加物品总量。
 
+--------【进展】右侧的一对小三角，可以将进度条记录，按三种不同顺序排序：添加的时间顺序，剩余百分比升序，剩余百分比降序。
+
+--------更改进度条进度时，会容易翻页，好像是antd的问题……俺的代码很坚强，慢慢改就行。如知道改善方式，请务必联系我
+
+```
+![image](https://github.com/shumil573/for-pri/blob/main/arrangement-image/bulletin1.jpg)
+```
+
 -第3个页面“子弹”，基于子弹笔记的思想，快速记笔记并分类。多种排版方式，增强易读性。
 
 -点击默认的圆圈○，可以切换该子弹笔记的类型。
 
 -【精简缓存】按钮可将时间轴记录减少至10条。
-
--【进展】右侧的一对小三角，可以将进度条记录，按三种不同顺序排序：添加的时间顺序，剩余百分比升序，剩余百分比降序。
-
--更改进度条进度时，会容易翻页，好像是antd的问题……俺的代码很坚强，慢慢改就行。如知道改善方式，请务必联系我的邮箱
 
 
 
@@ -49,11 +61,17 @@
 
 添加bupt假码的介绍及链接
 
-浏览器用bupt2021进出校申请码:[仅供技术交流使用](https://shumil573.github.io/bupt-bluffing)
+浏览器用bupt2022进出校申请码:[仅供技术交流使用](https://shumil573.github.io/bupt-bluffing)
 
 微信用：[仅供技术交流使用-wx版](https://shumil573.github.io/bupt-bluffing#/weixin)
 
 
+
+
+
+```
+![image](https://github.com/shumil573/for-pri/blob/main/bluffing-image/bluffing1.jpg)
+```
 
 使用说明：
 
