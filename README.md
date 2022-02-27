@@ -61,10 +61,8 @@
 
 
 
+![image](https://github.com/shumil573/for-pri/bluffing-image/bluffing1.jpg)
 
-```
-![image](https://github.com/shumil573/for-pri/blob/main/bluffing-image/bluffing1.jpg)
-```
 
 使用说明：
 
