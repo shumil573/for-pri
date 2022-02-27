@@ -25,11 +25,11 @@
 
 -基于本地缓存存储，不用担心你的小秘密被我知道（妈嘞我是真的不会用服务器（学习列表太长了
 
-![Image text](https://github.com/shumil573/for-pri/blob/main/arrangement-image/time1.jpg)
+<img src="https://github.com/shumil573/for-pri/blob/main/arrangement-image/time1.jpg" width="300" />
 
 -第1个页面“时间”，基于奇奇怪怪的需求，可能除了我，大家都用不上。而且网页难以发送通知。
 
-![Image text](https://github.com/shumil573/for-pri/blob/main/arrangement-image/store1.jpg)
+<img src="https://github.com/shumil573/for-pri/blob/main/arrangement-image/store1.jpg" width="300" />
 
 -第2个页面“库存”，用进度条显示一件事情的进展和数量（可以记吃吃喝喝，也可以记一本书的阅读进展，还可以记录量化的学习目标）。
 
@@ -40,7 +40,7 @@
 --------【进展】右侧的一对小三角，可以将进度条记录，按三种不同顺序排序：添加的时间顺序，剩余百分比升序，剩余百分比降序。
 
 --------更改进度条进度时，会容易翻页，好像是antd的问题……俺的代码很坚强，慢慢改就行。如知道改善方式，请务必联系我
-![Image text](https://github.com/shumil573/for-pri/blob/main/arrangement-image/bulletin1.jpg)
+<img src="https://github.com/shumil573/for-pri/blob/main/arrangement-image/bulletin1.jpg" width="300" />
 
 -第3个页面“子弹”，基于子弹笔记的思想，快速记笔记并分类。多种排版方式，增强易读性。
 
@@ -60,8 +60,7 @@
 
 
 
-
-![image](https://github.com/shumil573/for-pri/bluffing-image/bluffing1.jpg)
+<img src="https://github.com/shumil573/for-pri/blob/main/bluffing-image/bluffing1.jpg" width="300" />
 
 
 使用说明：
